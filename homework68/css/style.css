@@ -1,0 +1,38 @@
+body {
+    background: #262628;
+}
+
+.text {
+    color: white;
+    font-size: 40px;
+}
+
+
+
+
+/* =================================================== */
+
+.inner {
+    position: relative;
+}
+
+.block {
+    background-color: white;
+    height: 100px;
+    position: fixed;
+    top: 80%;
+    bottom: 100px;
+    left: 50%;
+    right: 50px;
+    border-radius: 10px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 100px;
+    position: fixed;
+    bottom: 140px;
+    left: 60%;
+}
